@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="design_fab_image_size" tools:override="true">36dp</dimen>
+
+    <dimen name="dp0" tools:override="true">0dp</dimen>
+    <dimen name="dp1" tools:override="true">1dp</dimen>
+    <dimen name="dp2" tools:override="true">2dp</dimen>
+    <dimen name="dp3" tools:override="true">3dp</dimen>
+    <dimen name="dp4" tools:override="true">4dp</dimen>
+    <dimen name="dp5" tools:override="true">5dp</dimen>
+    <dimen name="dp6" tools:override="true">6dp</dimen>
+    <dimen name="dp7" tools:override="true">7dp</dimen>
+    <dimen name="dp8" tools:override="true">8dp</dimen>
+    <dimen name="dp9" tools:override="true">9dp</dimen>
+    <dimen name="dp10" tools:override="true">10dp</dimen>
+
+    <dimen name="dp11" tools:override="true">11dp</dimen>
+    <dimen name="dp12" tools:override="true">12dp</dimen>
+    <dimen name="dp13" tools:override="true">13dp</dimen>
+    <dimen name="dp14" tools:override="true">14dp</dimen>
+    <dimen name="dp15" tools:override="true">15dp</dimen>
+    <dimen name="dp16" tools:override="true">16dp</dimen>
+    <dimen name="dp17" tools:override="true">17dp</dimen>
+    <dimen name="dp18" tools:override="true">18dp</dimen>
+    <dimen name="dp19" tools:override="true">19dp</dimen>
+    <dimen name="dp20" tools:override="true">20dp</dimen>
+
+    <dimen name="dp21" tools:override="true">21dp</dimen>
+    <dimen name="dp22" tools:override="true">22dp</dimen>
+    <dimen name="dp23" tools:override="true">23dp</dimen>
+    <dimen name="dp24" tools:override="true">24dp</dimen>
+    <dimen name="dp25" tools:override="true">25dp</dimen>
+    <dimen name="dp26" tools:override="true">26dp</dimen>
+    <dimen name="dp27" tools:override="true">27dp</dimen>
+    <dimen name="dp28" tools:override="true">28dp</dimen>
+    <dimen name="dp29" tools:override="true">29dp</dimen>
+    <dimen name="dp30" tools:override="true">30dp</dimen>
+
+    <dimen name="dp31" tools:override="true">31dp</dimen>
+    <dimen name="dp45" tools:override="true">45dp</dimen>
+
+
+</resources>

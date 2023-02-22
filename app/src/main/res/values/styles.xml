@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="greyAccent" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">#0267B1</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/teal_200</item>
+    </style>
+</resources>
